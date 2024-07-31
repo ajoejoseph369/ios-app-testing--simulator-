@@ -1,0 +1,14 @@
+{
+  "appium:deviceName": "iPhone 15 Pro",
+  "appium:platformVersion": "17.5",
+  "platformName": "ios",
+  "appium:app": "/Users/p10/Documents/ios app testing /Payload/wdiodemoapp.app",
+  "appium:automationName": "XCUITest"
+}
+
+
+
+
+  
+
+  
